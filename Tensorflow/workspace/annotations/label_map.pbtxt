@@ -1,0 +1,20 @@
+item { 
+	name:'HOLA'
+	id:1
+}
+item { 
+	name:'CHAU'
+	id:2
+}
+item { 
+	name:'PERMISO'
+	id:3
+}
+item { 
+	name:'AMOR'
+	id:4
+}
+item { 
+	name:'GRACIAS'
+	id:5
+}

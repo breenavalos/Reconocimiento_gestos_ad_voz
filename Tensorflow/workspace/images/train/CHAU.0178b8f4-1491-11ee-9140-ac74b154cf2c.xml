@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CHAU</folder>
+	<filename>CHAU.0178b8f4-1491-11ee-9140-ac74b154cf2c.jpg</filename>
+	<path>C:\Users\BAVALOS\Desktop\Proyecto\TFODCourse\Tensorflow\workspace\images\collectedimages\CHAU\CHAU.0178b8f4-1491-11ee-9140-ac74b154cf2c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CHAU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>142</ymin>
+			<xmax>619</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
