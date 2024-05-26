@@ -1,4 +1,4 @@
-# Reconocimiento_gestos_ad_voz
+# Reconocimiento de gestos y voz
 Reconocimiento de lenguaje se señas y traducción de voz
 
 "Doc - Sistema de comunicación inclusiva .docx" contiene el apartado para Configuración previa y Estructura del sistema.
